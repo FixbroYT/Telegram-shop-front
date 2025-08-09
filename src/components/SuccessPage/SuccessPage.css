@@ -1,0 +1,25 @@
+.successPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.successPage h2 {
+    text-align: center;
+}
+
+.successPage button {
+    width: 90vw;
+    height: 5vh;
+    border: none;
+    border-radius: 15px;
+    background: #1b7eff;
+    transition: all 0.2s ease-in-out;
+    color: #fff;
+}
+
+.successPage button:active {
+    opacity: 0.7;
+}
