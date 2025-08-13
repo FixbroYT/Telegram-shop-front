@@ -46,6 +46,12 @@ Please note that this is only the store's frontend; the backend is available at 
 
 ---
 
+## 🖼 Screenshots
+
+https://github.com/FixbroYT/Telegram-shop-front/blob/main/screenshots/photo_2025-08-13_21-54-11.jpg
+
+---
+
 ## 📄 License
 
 MIT License — free to use and modify.
