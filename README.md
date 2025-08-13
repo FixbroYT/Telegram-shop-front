@@ -1,12 +1,51 @@
-# React + Vite
+# Telgram shop frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The frontend of my Telegram store, developed using **React** + **Vite**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Features
 
-## Expanding the ESLint configuration
+- 💻 Convenient and adaptive store interface.
+- 📄 There are pages for successful and unsuccessful payments.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🔧 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/FixbroYT/Telegram-shop-front
+   cd Telegram-shop-front
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Create a `.env` file in the project root:
+
+   ```
+   VITE_API_URL=https://your_backend_url.com
+   ```
+
+---
+
+## ⚠ Additional info
+
+Please note that this is only the store's frontend; the backend is available at this link: [Telegram-shop](https://github.com/FixbroYT/Telegram-shop/tree/master)
+
+---
+
+## 🛠 Tech Stack
+
+* React + Vite
+* JavaScript
+* CSS
+
+---
+
+## 📄 License
+
+MIT License — free to use and modify.
