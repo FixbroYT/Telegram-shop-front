@@ -48,7 +48,9 @@ Please note that this is only the store's frontend; the backend is available at 
 
 ## 🖼 Screenshots
 
-[1 Screen](https://github.com/FixbroYT/Telegram-shop-front/blob/main/screenshots/photo_2025-08-13_21-54-11.jpg)
+* [Screenshot](https://github.com/FixbroYT/Telegram-shop-front/blob/main/screenshots/photo_2025-08-13_21-54-11.jpg)
+* [Screenshot](https://github.com/FixbroYT/Telegram-shop-front/blob/main/screenshots/photo_2025-08-13_21-54-08.jpg)
+* [Screenshot](https://github.com/FixbroYT/Telegram-shop-front/blob/main/screenshots/photo_2025-08-13_21-54-03.jpg)
 
 ---
 
